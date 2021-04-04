@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = Homework::VERSION
   spec.authors       = ["Hari Prasath"]
   spec.email         = ["hariven1998@gmail.com"]
-
+ 
   spec.summary       = "Summary"
   spec.description   = "desc"
   spec.homepage      = "https://rubygems.org"

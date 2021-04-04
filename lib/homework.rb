@@ -4,7 +4,7 @@ require_relative "homework/version"
 
 module Homework
   class Error < StandardError; end
-  
+   
   class Student
     def initialize(params = {})
       @name = params[:name] || ""
